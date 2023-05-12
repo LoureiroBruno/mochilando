@@ -1,5 +1,5 @@
-# mochilando
-Criando uma lista de itens de viagens para sua mochila
+# Mochilando
+> Criando uma lista de itens de viagens para sua mochila
 
 ## Iniciar a aplicação
 > acessar a pasta local
